@@ -2,9 +2,9 @@
 export class EmailService {
   constructor() {
     // You need to replace these with your actual EmailJS credentials
-    this.serviceId = 'service_your_id' // Get from EmailJS dashboard
-    this.templateId = 'template_your_id' // Get from EmailJS dashboard  
-    this.publicKey = 'your_public_key' // Get from EmailJS dashboard
+    this.serviceId = 'service_wkhtl5s' // Get from EmailJS dashboard
+    this.templateId = 'template_uem5cjd' // Get from EmailJS dashboard  
+    this.publicKey = 'roIaQ8s4L8cOM_Mr_' // Get from EmailJS dashboard
     this.initialized = false
   }
 
